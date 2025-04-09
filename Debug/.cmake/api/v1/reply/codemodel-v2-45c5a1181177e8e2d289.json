@@ -1,0 +1,126 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "abstract-factory",
+					"jsonFile" : "directory-abstract-factory-Debug-3440bbbca3ae9e3ca88c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "abstract-factory",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "builder",
+					"jsonFile" : "directory-builder-Debug-ee771678a71e618352ac.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "builder",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "factory-method",
+					"jsonFile" : "directory-factory-method-Debug-a6d7f6415af75be65770.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "factory-method",
+					"targetIndexes" : 
+					[
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					],
+					"name" : "DesignPatterns",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "abstract-factory.out::@aa66b363abbd884edafe",
+					"jsonFile" : "target-abstract-factory.out-Debug-fb168091024988ed2fed.json",
+					"name" : "abstract-factory.out",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "builder.out::@57f5f9fdb86bdb0b3cc6",
+					"jsonFile" : "target-builder.out-Debug-51ff8ed22fa408e72445.json",
+					"name" : "builder.out",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "factory-method.out::@bcff386f024666d34625",
+					"jsonFile" : "target-factory-method.out-Debug-abb775aa30e90f9000df.json",
+					"name" : "factory-method.out",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/paul/Repositories/design-patterns/Debug",
+		"source" : "/home/paul/Repositories/design-patterns"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

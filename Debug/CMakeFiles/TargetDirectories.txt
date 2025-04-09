@@ -1,0 +1,11 @@
+/home/paul/Repositories/design-patterns/Debug/CMakeFiles/edit_cache.dir
+/home/paul/Repositories/design-patterns/Debug/CMakeFiles/rebuild_cache.dir
+/home/paul/Repositories/design-patterns/Debug/abstract-factory/CMakeFiles/abstract-factory.out.dir
+/home/paul/Repositories/design-patterns/Debug/abstract-factory/CMakeFiles/edit_cache.dir
+/home/paul/Repositories/design-patterns/Debug/abstract-factory/CMakeFiles/rebuild_cache.dir
+/home/paul/Repositories/design-patterns/Debug/builder/CMakeFiles/builder.out.dir
+/home/paul/Repositories/design-patterns/Debug/builder/CMakeFiles/edit_cache.dir
+/home/paul/Repositories/design-patterns/Debug/builder/CMakeFiles/rebuild_cache.dir
+/home/paul/Repositories/design-patterns/Debug/factory-method/CMakeFiles/factory-method.out.dir
+/home/paul/Repositories/design-patterns/Debug/factory-method/CMakeFiles/edit_cache.dir
+/home/paul/Repositories/design-patterns/Debug/factory-method/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g "CMakeFiles/factory-method.out.dir/main.cpp.o" -o factory-method.out

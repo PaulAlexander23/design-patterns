@@ -7,4 +7,5 @@ set(CMAKE_CXX_STANDARD_REQUIRED true)
 
 add_subdirectory(abstract-factory/)
 add_subdirectory(builder/)
+add_subdirectory(factory-method/)
 
